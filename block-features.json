@@ -4,7 +4,7 @@
     "randomGame": true,
     "liveSearch": true,
     "searchByTitle": true,
-    "uiTranslation": false,
+    "uiTranslation": true,
     "tooltipsTranslation": true,
     "hdPreviews": true,
     "changeFont": true
