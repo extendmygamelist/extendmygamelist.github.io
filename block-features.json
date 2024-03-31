@@ -1,7 +1,7 @@
 {
     "general": true,
     "bookmarks": true,
-    "randomGame": true,
+    "randomGame": false,
     "liveSearch": true,
     "search": true,
     "uiTranslation": true,
