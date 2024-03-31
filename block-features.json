@@ -1,0 +1,11 @@
+{
+    "general": true,
+    "bookmarks": true,
+    "randomGame": true,
+    "liveSearch": true,
+    "search": true,
+    "uiTranslation": true,
+    "tooltipsTranslation": true,
+    "hdPreviews": true,
+    "font": true
+}
