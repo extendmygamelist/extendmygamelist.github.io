@@ -2,10 +2,10 @@
     "general": true,
     "bookmarks": true,
     "randomGame": true,
-    "liveSearch": false,
-    "searchByTitle": false,
-    "uiTranslation": false,
+    "liveSearch": true,
+    "searchByTitle": true,
+    "uiTranslation": true,
     "tooltipsTranslation": false,
-    "hdPreviews": false,
-    "changeFont": false
+    "hdPreviews": true,
+    "changeFont": true
 }
