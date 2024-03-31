@@ -1,6 +1,6 @@
 {
     "general": true,
-    "bookmarks": false,
+    "bookmarks": true,
     "randomGame": true,
     "liveSearch": true,
     "search": true,
