@@ -1,5 +1,5 @@
 {
-    "general": false,
+    "general": true,
     "bookmarks": true,
     "randomGame": true,
     "liveSearch": true,
