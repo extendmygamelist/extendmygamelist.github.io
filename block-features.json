@@ -1,11 +1,11 @@
 {
-    "general": true,
-    "bookmarks": true,
-    "randomGame": true,
-    "liveSearch": true,
-    "searchByTitle": true,
-    "uiTranslation": true,
-    "tooltipsTranslation": true,
-    "hdPreviews": true,
-    "changeFont": true
+    "general": false,
+    "bookmarks": false,
+    "randomGame": false,
+    "liveSearch": false,
+    "searchByTitle": false,
+    "uiTranslation": false,
+    "tooltipsTranslation": false,
+    "hdPreviews": false,
+    "changeFont": false
 }
